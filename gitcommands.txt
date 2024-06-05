@@ -15,3 +15,4 @@ git pull [remote repo changes local repo]
 
 git clone [remote repository exact copy localrepository]
 
+gi command -v [list all remote]
